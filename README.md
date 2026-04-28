@@ -1,4 +1,4 @@
-Hi, I'm Anishka Sharma 👋  
+Hi, I'm Anishka Sharma   
 B.Sc. (Hons) Statistics | University of Delhi  
 Aspiring Data Analyst | SQL | Excel | Power BI | Python  
 
