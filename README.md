@@ -1,4 +1,4 @@
-**Hi, I'm Anishka Sharma **  
+Hi, I'm Anishka Sharma  
 B.Sc. (Hons) Statistics | University of Delhi  
 Aspiring Data Analyst | SQL | Excel | Power BI | Python  
 
@@ -16,11 +16,7 @@ https://github.com/anishka110903-arch/ola_data_analysis_dashboard
 
 Excel Data Dashboard
 - Built interactive dashboards using Pivot Tables & slicers  
-- Analyzed 5K+ records to identify trends  
-
-
-Skills
-SQL | Excel | Power BI | Python | R | Data Analysis | Visualization  
+- Analyzed 5K+ records to identify trends    
 
 
 Connect with Me
