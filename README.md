@@ -9,6 +9,7 @@ I have hands-on experience in data analysis, dashboard building, and statistical
 
 
 Projects: 
+
 Ola Ride Data Analysis
 - Analyzed 40K+ records using SQL & Excel  
 - Built Power BI dashboard for demand, revenue & cancellations  
