@@ -1,4 +1,4 @@
-Hi, I'm Anishka Sharma   
+**Hi, I'm Anishka Sharma **  
 B.Sc. (Hons) Statistics | University of Delhi  
 Aspiring Data Analyst | SQL | Excel | Power BI | Python  
 
@@ -9,7 +9,6 @@ I have hands-on experience in data analysis, dashboard building, and statistical
 
 
 Projects: 
-
 Ola Ride Data Analysis
 - Analyzed 40K+ records using SQL & Excel  
 - Built Power BI dashboard for demand, revenue & cancellations  
