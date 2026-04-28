@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Anishka Sharma 👋  
 
-<!--
-**anishka110903-arch/anishka110903-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Sc. (Hons) Statistics | University of Delhi  
+Aspiring Data Analyst | SQL | Excel | Power BI | Python  
 
-Here are some ideas to get you started:
+About Me
+I enjoy working with data to uncover insights and support decision-making.  
+I have hands-on experience in data analysis, dashboard building, and statistical modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects
+
+Ola Ride Data Analysis
+- Analyzed 40K+ records using SQL & Excel  
+- Built Power BI dashboard for demand, revenue & cancellations  
+https://github.com/anishka110903-arch/ola_data_analysis_dashboard
+
+Excel Data Dashboard
+- Built interactive dashboards using Pivot Tables & slicers  
+- Analyzed 5K+ records to identify trends  
+
+
+Skills
+SQL | Excel | Power BI | Python | R | Data Analysis | Visualization  
+
+Connect with Me
+LinkedIn: www.linkedin.com/in/anishka-sharma-58451a257
